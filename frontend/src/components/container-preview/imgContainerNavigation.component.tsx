@@ -19,4 +19,4 @@ const ImgContainerNavigationComponent:FC<ImgContainerNavigationComponentType> = 
     )
 }
 
-export default ImgContainerNavigationComponent
+export default ImgContainerNavigationComponent  
