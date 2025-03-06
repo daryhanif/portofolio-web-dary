@@ -15,8 +15,8 @@ interface ImgContainerDataState {
 
 const initialState: ImgContainerDataState = {
   images: [
-    { id_img: 1, img_bg: "http:///sdsd", img_logo: "emaple", heading_patner_name: "Bengkel Jaya Oleng", desc_patner: "ini adalah patner pertama kali" },
-    { id_img: 2, img_bg: "http:///image2", img_logo: "logo2", heading_patner_name: "Partner Kedua", desc_patner: "Ini adalah patner kedua" }
+    { id_img: 1, img_bg: "wallpaper_jepang_fix.png", img_logo: "emaple", heading_patner_name: "Bengkel Jaya Oleng", desc_patner: "ini adalah patner pertama kali" },
+    { id_img: 2, img_bg: "wallpaper_new.jpg", img_logo: "logo2", heading_patner_name: "Partner Kedua", desc_patner: "Ini adalah patner kedua" }
   ],
   selectedImage: null, // Awalnya tidak ada yang dipilih
 };
